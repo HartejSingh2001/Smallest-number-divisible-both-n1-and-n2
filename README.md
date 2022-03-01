@@ -1,0 +1,1 @@
+# Smallest-number-divisible-both-n1-and-n2
